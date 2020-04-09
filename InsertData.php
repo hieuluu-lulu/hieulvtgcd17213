@@ -20,7 +20,7 @@
 <li><strong>Full name:</strong></li>    <li><input type="text" name="empname" /></li>
 <li><strong>Email:</strong></li><li>    <input type="text" name="empemail" /></li>
 <li><strong>Phone number:</strong></li>    <li><input type="text" name="empphone" /></li>
-<li><input type="submit" value="INSERT" /></li>
+<li><input type="submit" value="INSERT"></li>
 </form>
 </ul>
 <?php
